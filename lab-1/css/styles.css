@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+body {
+    font-family: helvetica, sans-serif;
+    width: 350px;
+    background-color: #000;
+ 
+}
+
+label {
+    font-weight: bold;
+}
+
+div {
+    padding-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 150px;
+}
+p {
+    background: #ffc125;
+    color: #5e2612;
+    padding: 10px;
+    visibility: hidden;
+}
+label
+{
+    color: blue;
+    
+}
+
+
+h1
+{
+
+    color: antiquewhite;
+    font-size: 80px;
+    background: linear-gradient( rgb(111, 111, 231) , rgb(136, 222, 136) );
+    -webkit-background-clip : text;
+    -webkit-text-fill-color: transparent;
+    font-family: cursive;
+    margin: 0%;
+    padding: 0%;
+}
+a
+{
+    color: #ffc125;
+    margin: 0%;
+    padding: 0%;
+}
